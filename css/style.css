@@ -1,3 +1,17 @@
+.hi
+{
+    text-align: center;
+    color: #fff;
+    border-radius: 3px;
+    text-decoration: none;
+    font-family: Tahoma;
+    font-size: 35px;
+    line-height: 0;
+    font-weight: 100;
+    position: relative;
+    top: 9ex;
+    right: 0ex;
+}
 .button-main
 {
     color: #fff;
@@ -65,17 +79,16 @@
 }
 .about-me-title-text
 {
-
     text-align: center;
     color: #fff;
     border-radius: 3px;
     text-decoration: none;
     font-family: Tahoma;
-    font-size: 25px;
+    font-size: 20px;
     line-height: 0;
     font-weight: 100;
     position: relative;
-    top: 15ex;
+    top: 20ex;
     right: 0ex;
 }
 .about-me-subtitle-text
@@ -99,11 +112,11 @@
     border-radius: 3px;
     text-decoration: none;
     font-family: Tahoma;
-    font-size: 25px;
+    font-size: 35px;
     line-height: 0;
     font-weight: 100;
     position: relative;
-    top: 15ex;
+    top: 9ex;
     right: 0ex;
 }
 .projects-subtitle-text
