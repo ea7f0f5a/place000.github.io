@@ -1,3 +1,11 @@
+.hr
+{
+    color: white;
+    size: 50px;
+    position: relative;
+    width: 175ex;
+    top: -30px;
+}
 .hi
 {
     text-align: center;
@@ -29,9 +37,42 @@
     width: 0px;
     height: 0px;
 }
+.button-main:hover
+{
+    color: #dfba40;
+    border-radius: 3px;
+    text-decoration: none;
+    font-family: Tahoma;
+    font-size: 18px;
+    line-height: 0;
+    font-weight: 100;
+    position: absolute;
+
+    left: 55px;
+    right: 0px;
+    top: 29px;
+    width: 0px;
+    height: 0px;
+}
 .button-github 
 {
     color: #fff;
+    border-radius: 3px;
+    text-decoration: none;
+    font-family: Tahoma;
+    font-size: 18px;
+    line-height: 0;
+    font-weight: 100;
+    position: absolute;
+        left: 0x;
+        right: 25ex;
+        top: 3ex;
+        width: 0px;
+        height: 0px;
+}
+.button-github:hover
+{
+    color: #dfba40;
     border-radius: 3px;
     text-decoration: none;
     font-family: Tahoma;
@@ -61,6 +102,22 @@
         width: 0px;
         height: 0px;
 }
+.button-instagram:hover
+{
+    color: #dfba40;
+    border-radius: 3px;
+    text-decoration: none;
+    font-family: Tahoma;
+    font-size: 18px;
+    line-height: 0;
+    font-weight: 100;
+    position: absolute;
+        left: 0x;
+        right:37ex;
+        top: 3ex;
+        width: 0px;
+        height: 0px;
+}
 .button-support 
 {
     color: #fff;
@@ -77,9 +134,41 @@
         width: 0px;
         height: 0px;
 }
+.button-support:hover
+{
+    color: #dfba40;
+    border-radius: 3px;
+    text-decoration: none;
+    font-family: Tahoma;
+    font-size: 18px;
+    line-height: 0;
+    font-weight: 100;
+    position: absolute;
+        left: 0x;
+        right:47ex;
+        top: 3ex;
+        width: 0px;
+        height: 0px;
+}
 .button-projects
 {
     color: #fff;
+    border-radius: 3px;
+    text-decoration: none;
+    font-family: Tahoma;
+    font-size: 18px;
+    line-height: 0;
+    font-weight: 100;
+    position: absolute;
+        left: 0x;
+        right: 15ex;
+        top: 3ex;
+        width: 0px;
+        height: 0px;
+}
+.button-projects:hover
+{
+    color: #dfba40;
     border-radius: 3px;
     text-decoration: none;
     font-family: Tahoma;
