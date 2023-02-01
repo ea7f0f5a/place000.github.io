@@ -241,32 +241,26 @@
 .button-google-play-store
 {
     color: white;
-    border-radius: 3px;
     font-family: "Tahoma";
-    position: relative;
-        left: 550px;
-        right: 50ex;
-        top: 26ex;
+    position:absolute;
+    top: 320px;
+    left: 700px;
 }
 .button-github-repositories-server-tcp-and-client-tcp
 {
     color: white;
-    border-radius: 3px;
     font-family: "Tahoma";
-    position: relative;
-        left: 200px;
-        right: 50ex;
-        top: 26ex;
+    position: absolute;
+    top: 320px;
+    left: 410px;
 }
 .button-github-repositories-password-manager
 {
     color: white;
-    border-radius: 3px;
     font-family: "Tahoma";
-    position: relative;
-        left: 400px;
-        right: 50px;
-        top: 26ex;
+    position: absolute;
+    top: 350px;
+    left: 410px;
 }
 .all-rigts-reserved-place000
 {
