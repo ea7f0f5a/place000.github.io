@@ -1,0 +1,167 @@
+.button-main
+{
+    color: #fff;
+    border-radius: 3px;
+    text-decoration: none;
+    font-family: Tahoma;
+    font-size: 18px;
+    line-height: 0;
+    font-weight: 100;
+    position: absolute;
+
+    left: 55px;
+    right: 0px;
+    top: 29px;
+    width: 0px;
+    height: 0px;
+}
+.button-github 
+{
+    color: #fff;
+    border-radius: 3px;
+    text-decoration: none;
+    font-family: Tahoma;
+    font-size: 18px;
+    line-height: 0;
+    font-weight: 100;
+    position: absolute;
+        left: 0x;
+        right: 25ex;
+        top: 3ex;
+        width: 0px;
+        height: 0px;
+}
+.button-instagram 
+{
+    color: #fff;
+    border-radius: 3px;
+    text-decoration: none;
+    font-family: Tahoma;
+    font-size: 18px;
+    line-height: 0;
+    font-weight: 100;
+    position: absolute;
+        left: 0x;
+        right:37ex;
+        top: 3ex;
+        width: 0px;
+        height: 0px;
+}
+.button-projects
+{
+    color: #fff;
+    border-radius: 3px;
+    text-decoration: none;
+    font-family: Tahoma;
+    font-size: 18px;
+    line-height: 0;
+    font-weight: 100;
+    position: absolute;
+        left: 0x;
+        right: 15ex;
+        top: 3ex;
+        width: 0px;
+        height: 0px;
+}
+.about-me-title-text
+{
+
+    text-align: center;
+    color: #fff;
+    border-radius: 3px;
+    text-decoration: none;
+    font-family: Tahoma;
+    font-size: 25px;
+    line-height: 0;
+    font-weight: 100;
+    position: relative;
+    top: 15ex;
+    right: 0ex;
+}
+.about-me-subtitle-text
+{
+    text-align: center;
+    color: #fff;
+    border-radius: 3px;
+    font-family: "Tahoma";
+    font-size: 15px;
+    line-height: 0;
+    font-weight: 100;
+    position: relative;
+        top: 30ex;
+        right: 0ex;
+}
+.projects-title-text
+{
+
+    text-align: center;
+    color: #fff;
+    border-radius: 3px;
+    text-decoration: none;
+    font-family: Tahoma;
+    font-size: 25px;
+    line-height: 0;
+    font-weight: 100;
+    position: relative;
+    top: 15ex;
+    right: 0ex;
+}
+.projects-subtitle-text
+{
+    text-align: center;
+    padding: 5px;
+    color: #fff;
+    border-radius: 3px;
+    font-family: "Tahoma";
+    font-size: 20px;
+    line-height: 0;
+    font-weight: 100;
+    position: relative;
+        top: 20ex;
+        right: 0ex;
+}
+.button-google-play-store
+{
+    color: white;
+    border-radius: 3px;
+    font-family: "Tahoma";
+    position: relative;
+        left: 550px;
+        right: 50ex;
+        top: 30ex;
+}
+.button-github-repositories-server-tcp-and-client-tcp
+{
+    color: white;
+    border-radius: 3px;
+    font-family: "Tahoma";
+    position: relative;
+        left: 200px;
+        right: 50ex;
+        top: 30ex;
+}
+.button-github-repositories-password-manager
+{
+    color: white;
+    border-radius: 3px;
+    font-family: "Tahoma";
+    position: relative;
+        left: 400px;
+        right: 50px;
+        top: 30ex;
+}
+.all-rigts-reserved-place000
+{
+    text-align: center;
+    color: #fff;
+    font-size: 15px;
+    text-decoration: none;
+    font-family: Tahoma;
+    position: relative;
+        top: 160ex;
+        padding-bottom: 25px;
+}
+body
+{
+    background-color: #222222;
+}
