@@ -123,4 +123,88 @@ body
     color: white;
     font-size: 16px;
     font-family: "Tahoma";
+    text-decoration:unset;
+    position: relative;
+    top: 20px;
+    left: 20px;
+}
+.button-back:hover
+{
+    color: #dfba40;
+}
+.projects-title-text
+{
+    text-align: center;
+    font-size: 32px;
+    font-family: "Tahoma";
+    color: white;
+
+    position: relative;
+    top: 164px;
+}
+.projects-subtitle-text
+{
+    text-align: center;
+    font-size: 16px;
+    font-family: "Tahoma";
+    color: white;
+
+    position: relative;
+    top: 128px;
+}
+.button-google-play-store
+{
+    color: white;
+    font-size: 16px;
+    font-family: "Tahoma";
+    position: relative;
+    padding-bottom: 16px;
+    top: 173px;
+    left: 100ex;
+}
+.button-google-play-store:hover
+{
+    color: #dfba40;
+}
+.button-google-play-store a
+{
+    text-decoration:unset;
+}
+.button-github-repositories-server-tcp-and-client-tcp
+{
+    color: white;
+    font-size: 16px;
+    font-family: "Tahoma";
+    text-decoration:unset;
+    position: relative;
+    padding-bottom: 16px;
+    top: 16ex;
+    left: 70ex;
+}
+.button-github-repositories-server-tcp-and-client-tcp:hover
+{
+    color: #dfba40;
+}
+.button-github-repositories-server-tcp-and-client-tcp a
+{
+    text-decoration:unset;
+}
+.button-github-repositories-password-manager
+{
+    color: white;
+    font-size: 16px;
+    font-family: "Tahoma";
+    text-decoration:unset;
+    position: relative;
+    padding-bottom: 6px;
+    top: 16ex;
+    left: 70ex;
+}
+.button-github-repositories-password-manager:hover
+{
+    color: #dfba40;
+}
+.button-github-repositories-password-manager a
+{
+    text-decoration:unset;
 }
