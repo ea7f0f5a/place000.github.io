@@ -1,302 +1,129 @@
-.hr
+body
 {
-    color: white;
-    size: 50px;
-    position: relative;
-    width: 175ex;
-    top: -30px;
+    background-color: rgb(20, 20, 20);
 }
-.hi
+.welcome-text
 {
     text-align: center;
-    color: #fff;
-    border-radius: 3px;
-    text-decoration: none;
-    font-family: Tahoma;
-    font-size: 35px;
-    line-height: 0;
-    font-weight: 100;
+    font-size: 32px;
+    font-family: "Tahoma";
+    color: white;
+
     position: relative;
-    top: 9ex;
-    right: 0ex;
-}
-.button-main
-{
-    color: #fff;
-    border-radius: 3px;
-    text-decoration: none;
-    font-family: Tahoma;
-    font-size: 18px;
-    line-height: 0;
-    font-weight: 100;
-    position: absolute;
-
-    left: 55px;
-    right: 0px;
-    top: 50px;
-    width: 0px;
-    height: 0px;
-}
-.button-main:hover
-{
-    color: #dfba40;
-    border-radius: 3px;
-    text-decoration: none;
-    font-family: Tahoma;
-    font-size: 18px;
-    line-height: 0;
-    font-weight: 100;
-    position: absolute;
-
-    left: 55px;
-    right: 0px;
-    top: 50px;
-    width: 0px;
-    height: 0px;
-}
-.button-back
-{
-    color: #fff;
-    border-radius: 3px;
-    text-decoration: none;
-    font-family: Tahoma;
-    font-size: 18px;
-    line-height: 0;
-    font-weight: 100;
-    position: absolute;
-
-    left: 55px;
-    right: 0px;
-    top: 50px;
-    width: 0px;
-    height: 0px;
-}
-.button-back:hover
-{
-    color: #dfba40;
-    border-radius: 3px;
-    text-decoration: none;
-    font-family: Tahoma;
-    font-size: 18px;
-    line-height: 0;
-    font-weight: 100;
-    position: absolute;
-
-    left: 55px;
-    right: 0px;
-    top: 50px;
-    width: 0px;
-    height: 0px;
-}
-.button-github 
-{
-    color: #fff;
-    border-radius: 3px;
-    text-decoration: none;
-    font-family: Tahoma;
-    font-size: 18px;
-    line-height: 0;
-    font-weight: 100;
-}
-.button-github:hover
-{
-    color: #dfba40;
-    border-radius: 3px;
-    text-decoration: none;
-    font-family: Tahoma;
-    font-size: 18px;
-    line-height: 0;
-    font-weight: 100;
-}
-.button-instagram 
-{
-    color: #fff;
-    border-radius: 3px;
-    text-decoration: none;
-    font-family: Tahoma;
-    font-size: 18px;
-    line-height: 0;
-    font-weight: 100;
-}
-.button-instagram:hover
-{
-    color: #dfba40;
-    border-radius: 3px;
-    text-decoration: none;
-    font-family: Tahoma;
-    font-size: 18px;
-    line-height: 0;
-    font-weight: 100;
-}
-.button-support 
-{
-    color: #fff;
-    border-radius: 3px;
-    text-decoration: none;
-    font-family: Tahoma;
-    font-size: 18px;
-    line-height: 0;
-    font-weight: 100;
-}
-.button-support:hover
-{
-    color: #dfba40;
-    border-radius: 3px;
-    text-decoration: none;
-    font-family: Tahoma;
-    font-size: 18px;
-    line-height: 0;
-    font-weight: 100;
-}
-.button-projects
-{
-    color: #fff;
-    border-radius: 3px;
-    text-decoration: none;
-    font-family: Tahoma;
-    font-size: 18px;
-    line-height: 0;
-    font-weight: 100;
-}
-.button-projects:hover
-{
-    color: #dfba40;
-    border-radius: 3px;
-    text-decoration: none;
-    font-family: Tahoma;
-    font-size: 18px;
-    line-height: 0;
-    font-weight: 100;
+    top: 164px;
 }
 .about-me-title-text
 {
     text-align: center;
-    color: #fff;
-    border-radius: 3px;
-    text-decoration: none;
-    font-family: Tahoma;
-    font-size: 20px;
-    line-height: 0;
-    font-weight: 100;
+    font-size: 24px;
+    font-family: "Tahoma";
+    color: white;
+
     position: relative;
-    top: 20ex;
-    right: 0ex;
+    top: 128px;
 }
 .about-me-subtitle-text
 {
     text-align: center;
-    color: #fff;
-    border-radius: 3px;
+    font-size: 16px;
     font-family: "Tahoma";
-    font-size: 15px;
-    line-height: 0;
-    font-weight: 100;
-    position: relative;
-        top: 30ex;
-        right: 0ex;
-}
-.projects-title-text
-{
+    color: white;
 
-    text-align: center;
-    color: #fff;
-    border-radius: 3px;
-    text-decoration: none;
-    font-family: Tahoma;
-    font-size: 35px;
-    line-height: 0;
-    font-weight: 100;
     position: relative;
-    top: 9ex;
-    right: 0ex;
-}
-.projects-subtitle-text
-{
-    text-align: center;
-    padding: 5px;
-    color: #fff;
-    border-radius: 3px;
-    font-family: "Tahoma";
-    font-size: 20px;
-    line-height: 0;
-    font-weight: 100;
-    position: relative;
-    top: 20ex;
-        right: 0ex;
-}
-.button-google-play-store
-{
-    color: white;
-    font-family: "Tahoma";
-    position:absolute;
-    top: 320px;
-    left: 700px;
-}
-.button-github-repositories-server-tcp-and-client-tcp
-{
-    color: white;
-    font-family: "Tahoma";
-    position: absolute;
-    top: 320px;
-    left: 410px;
-}
-.button-github-repositories-password-manager
-{
-    color: white;
-    font-family: "Tahoma";
-    position: absolute;
-    top: 350px;
-    left: 410px;
+    top: 128px;
 }
 .all-rigts-reserved-place000
 {
     text-align: center;
-    color: #fff;
-    font-size: 15px;
-    text-decoration: none;
-    font-family: Tahoma;
+    font-size: 16px;
+    font-family: "Tahoma";
+    color: white;
+
     position: relative;
-        top: 160ex;
-        padding-bottom: 25px;
+    top: 128ex;
+    padding-bottom: 8px;
 }
 .dropdown
 {
     display: inline-block;
-    position: relative;
     font-family: "Tahoma";
-    left: 1110px;
-    right: 0px;
-    top: -60px;
-    width: 0px;
-    height: 0px;
+    position: relative;
+    top: -188px;
+    left: 203ex;
 }
 .dropdown-button
 {
-    background-color:#1a1a1a;
+    background-color:unset;
     color:white;
     padding: 16px;
     font-size:18px;
-    border: none;
+    padding: 0;
+    border: 0;
 }
 .dropdown-content
 {
     display: none;
-    position: absolute;
-    background-color: #1a1a1a;
+    position: relative;
+    background-color: unset;
     min-width: 100px;
-    max-width: 5px;
-    left: -6px;
+    max-width: 6px;
+    left: -22px;
     z-index: 1;
 }
 .dropdown-content a
 {
-    padding: 16px 16px;
+    padding: 10px 16px;
     text-decoration: none;
     display: block;
 }
-.dropdown-button:hover {    color: #dfba40;;}
+.dropdown-button:hover {    color: #dfba40;}
 .dropdown:hover .dropdown-content {display: block;}
-body
+.button-projects
 {
-    background-color: #1a1a1a;
+    font-size: 16px;
+    font-family: "Tahoma";
+    color: white;
+}
+.button-projects:hover
+{
+    color: #dfba40;
+}
+.button-github
+{
+    font-size: 16px;
+    font-family: "Tahoma";
+    color: white;
+}
+.button-github:hover
+{
+    color: #dfba40;
+}
+.button-instagram
+{
+    font-size: 16px;
+    font-family: "Tahoma";
+    color: white;
+}
+.button-instagram:hover
+{
+    color: #dfba40;
+}
+.button-support
+{
+    font-size: 16px;
+    font-family: "Tahoma";
+    color: white;
+}
+.button-support:hover
+{
+    color: #dfba40;
+}
+.button-back
+{
+    color: white;
+    font-size: 16px;
+    font-family: "Tahoma";
+    position: relative;
+    top: 5px;
+    left: 5px;
 }
